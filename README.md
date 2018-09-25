@@ -1,4 +1,4 @@
-# Coin-Collection
+# Coin-Collection (robot)
 Several coins are placed in cells of an n by m board, no more than one coin per cell. A robot, located in the upper left cell of the board, needs to collect as many of the coins as possible and bring them to the bottom right cell.
 
 On each step, the robot can move either one cell to the right or one cell down from its current
